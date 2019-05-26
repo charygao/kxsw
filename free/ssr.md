@@ -5,7 +5,7 @@
 
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年5月21日更新 日本1 端口号
+#### 2019年5月26日更新 日本1 和 日本2 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -33,11 +33,11 @@ Twitter: https://twitter.com/darrenliuwei
 
 >如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是17台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
-![free-ssr-日本-东京1](https://i.imgur.com/CvyjBsW.png)
-![free-ss-日本-东京1](https://i.imgur.com/Dr1CXQD.png)
+![free-ssr-日本-东京1](https://i.imgur.com/SxX9sD6.png)
+![free-ss-日本-东京1](https://i.imgur.com/fuj66xF.png)
 <hr>
-![free-ssr-日本-东京2](https://i.imgur.com/NSFULdn.png)
-![free-ss-日本-东京2](https://i.imgur.com/1MIFs7h.png)
+![free-ssr-日本-东京2](https://i.imgur.com/Y1MN3IQ.png)
+![free-ss-日本-东京2](https://i.imgur.com/VRrX6kt.png)
 <hr>
 ![free-ssr-日本-东京3](https://i.imgur.com/fzKEqN2.png)
 ![free-ss-日本-东京3](https://i.imgur.com/4jWGJ0Z.png)
