@@ -1,9 +1,9 @@
-# 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞
+# 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年5月30日更新 日本3 和 英国1 端口号
+#### 2019年6月2日 目前只有新加坡3节点的ssr可以正常使用
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
-[Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年5月的最新活动，针对新用户送50美元！
+[Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年6月的最新活动，针对新用户送50美元！
 
 使用下面的注册地址可以获得 **50美元**<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)注册地址：**https://www.vultr.com/?ref=7775614-4F**
@@ -23,25 +23,16 @@ bilibili: https://space.bilibili.com/22768487<br>
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是17台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是13台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
-![free-ssr-日本-东京1](https://i.imgur.com/SxX9sD6.png)
-![free-ss-日本-东京1](https://i.imgur.com/fuj66xF.png)
-<hr>
-![free-ssr-日本-东京2](https://i.imgur.com/Y1MN3IQ.png)
-![free-ss-日本-东京2](https://i.imgur.com/VRrX6kt.png)
-<hr>
-![free-ssr-日本-东京3](https://i.imgur.com/nQ4IaVk.png)
-![free-ss-日本-东京3](https://i.imgur.com/IgVBSqN.png)
+![free-ssr-新加坡3](https://upload.cc/i1/2019/05/06/8xVsdi.png)
+![free-ss-新加坡3](https://upload.cc/i1/2019/05/06/sljC8B.png)
 <hr>
 ![free-ssr-加拿大1](https://upload.cc/i1/2019/05/03/kFBGYu.png)
 ![free-ss-加拿大1](https://upload.cc/i1/2019/05/03/HdqbjC.png)
 <hr>
 ![free-ssr-法国1](https://upload.cc/i1/2019/05/05/srBAyF.png)
 ![free-ss-法国1](https://upload.cc/i1/2019/05/05/7WnKHY.png)
-<hr>
-![free-ssr-英国-伦敦1](https://i.imgur.com/321IooB.png)
-![free-ss-英国-伦敦1](https://i.imgur.com/TuKSsoA.png)
 <hr>
 ![free-ssr-英国-伦敦2](https://upload.cc/i1/2019/05/05/dtYArj.png)
 ![free-ss-英国-伦敦2](https://upload.cc/i1/2019/05/05/wzmRY1.png)
@@ -54,9 +45,6 @@ bilibili: https://space.bilibili.com/22768487<br>
 <hr>
 ![free-ssr-新加坡2](https://upload.cc/i1/2019/05/14/YAboNx.png)
 ![free-ss-新加坡2](https://upload.cc/i1/2019/05/14/dsoTDQ.png)
-<hr>
-![free-ssr-新加坡3](https://upload.cc/i1/2019/05/06/8xVsdi.png)
-![free-ss-新加坡3](https://upload.cc/i1/2019/05/06/sljC8B.png)
 <hr>
 ![free-ssr-新加坡4](https://upload.cc/i1/2019/05/03/mX078D.png)
 ![free-ss-新加坡4](https://upload.cc/i1/2019/05/03/9kTqzP.png)
