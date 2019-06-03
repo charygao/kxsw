@@ -1,7 +1,7 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年6月3日 新增 美国2 节点（目前只有 新加坡9 和 美国2 节点可以正常使用）
+#### 2019年6月3日 新增 美国2 和 美国3 节点
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年6月的最新活动，针对新用户送50美元！
 
@@ -31,6 +31,9 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-美国2](https://i.imgur.com/9FEPLsB.png)
 ![free-ss-美国2](https://i.imgur.com/tZf87rA.png)
 <hr>
+![free-ssr-美国3](https://i.imgur.com/NXvAh9q.png)
+![free-ss-美国3](https://i.imgur.com/DE7Pw0y.png)
+<hr>
 ![free-ssr-新加坡3](https://upload.cc/i1/2019/05/06/8xVsdi.png)
 <hr>
 ![free-ssr-加拿大1](https://upload.cc/i1/2019/05/03/kFBGYu.png)
@@ -39,32 +42,8 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-法国1](https://upload.cc/i1/2019/05/05/srBAyF.png)
 ![free-ss-法国1](https://upload.cc/i1/2019/05/05/7WnKHY.png)
 <hr>
-![free-ssr-英国-伦敦2](https://upload.cc/i1/2019/05/05/dtYArj.png)
-![free-ss-英国-伦敦2](https://upload.cc/i1/2019/05/05/wzmRY1.png)
-<hr>
 ![free-ssr-美国-洛杉矶](https://upload.cc/i1/2019/04/29/JEKyvf.png)
 ![free-ss-美国-洛杉矶](https://upload.cc/i1/2019/04/29/sCzjGT.png)
-<hr>
-![free-ssr-新加坡1](https://upload.cc/i1/2019/05/03/qsp4on.png)
-![free-ss-新加坡1](https://upload.cc/i1/2019/05/03/mFk8wO.png)
-<hr>
-![free-ssr-新加坡2](https://upload.cc/i1/2019/05/14/YAboNx.png)
-![free-ss-新加坡2](https://upload.cc/i1/2019/05/14/dsoTDQ.png)
-<hr>
-![free-ssr-新加坡4](https://upload.cc/i1/2019/05/03/mX078D.png)
-![free-ss-新加坡4](https://upload.cc/i1/2019/05/03/9kTqzP.png)
-<hr>
-![free-ssr-新加坡5](https://upload.cc/i1/2019/05/03/zq4tOm.png)
-![free-ss-新加坡5](https://upload.cc/i1/2019/05/03/4QXNaM.png)
-<hr>
-![free-ssr-新加坡6](https://upload.cc/i1/2019/05/05/n0Kj1a.png)
-![free-ss-新加坡6](https://upload.cc/i1/2019/05/05/5V1Rwu.png)
-<hr>
-![free-ssr-新加坡7](https://upload.cc/i1/2019/05/05/R6Dvfi.png)
-![free-ss-新加坡7](https://upload.cc/i1/2019/05/05/aD10zV.png)
-<hr>
-![free-ssr-新加坡8](https://upload.cc/i1/2019/05/05/det4pG.png)
-![free-ss-新加坡8](https://upload.cc/i1/2019/05/05/umZewl.png)
 <hr>
 ![free-ssr-俄罗斯1](https://upload.cc/i1/2019/05/03/Trd2Wg.png)
 
