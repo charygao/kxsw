@@ -23,7 +23,7 @@ bilibili: https://space.bilibili.com/22768487<br>
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是7台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是6台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 
 ![free-ssr-新加坡9](https://i.imgur.com/k59D8oP.png)
@@ -31,11 +31,8 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-美国2](https://i.imgur.com/9FEPLsB.png)
 ![free-ss-美国2](https://i.imgur.com/tZf87rA.png)
 <hr>
-![free-ssr-美国4](https://i.imgur.com/9CVUqy1.png)
-![free-ss-美国4](https://i.imgur.com/cgYibMu.png)
-<hr>
-![free-ssr-美国5](https://i.imgur.com/kNc4PDB.png)
-![free-ss-美国5](https://i.imgur.com/c9fBnZZ.png)
+![free-ssr-美国4](https://i.imgur.com/frghKIq.png)
+![free-ss-美国4](https://i.imgur.com/YJY7hgG.png)
 <hr>
 ![free-ssr-新加坡3](https://upload.cc/i1/2019/05/06/8xVsdi.png)
 <hr>
