@@ -1,7 +1,7 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年6月19日删除 美国2、荷兰1、荷兰2 节点，新增 日本3 节点
+#### 2019年6月21日修改 日本2 端口号，新增 美国1、美国2、英国2、英国3、澳大利亚1、澳大利亚2 节点
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年6月的最新活动，针对新用户送50美元！
 
@@ -24,17 +24,29 @@ bilibili: https://space.bilibili.com/22768487<br>
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 15 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 21 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 
 ![free-ssr-日本1](https://i.imgur.com/ReFB7d4.png)
 ![free-ss-日本1](https://i.imgur.com/eeZRKOd.png)
 <hr>
-![free-ssr-日本2](https://i.imgur.com/sgbPbUc.png)
-![free-ss-日本2](https://i.imgur.com/gg3b8x7.png)
+![free-ssr-日本2](https://i.imgur.com/EOUfFx3.png)
+![free-ss-日本2](https://i.imgur.com/DtS4bgR.png)
 <hr>
 ![free-ssr-日本3](https://i.imgur.com/f3mNCxp.png)
 ![free-ss-日本3](https://i.imgur.com/PWYAJI5.png)
+<hr>
+![free-ssr-美国1](https://i.imgur.com/QLPwezR.png)
+![free-ss-美国1](https://i.imgur.com/k4Q3OeR.png)
+<hr>
+![free-ssr-美国2](https://i.imgur.com/2R9a90X.png)
+![free-ss-美国2](https://i.imgur.com/y2HrNOW.png)
+<hr>
+![free-ssr-澳大利亚1](https://i.imgur.com/MDRTC4r.png)
+![free-ss-澳大利亚1](https://i.imgur.com/w1gzcH1.png)
+<hr>
+![free-ssr-澳大利亚2](https://i.imgur.com/0zILGFJ.png)
+![free-ss-澳大利亚2](https://i.imgur.com/ssrHsUB.png)
 <hr>
 ![free-ssr-新加坡1](https://i.imgur.com/NQcRQ92.png)
 ![free-ss-新加坡1](https://i.imgur.com/u58j8UM.png)
@@ -69,6 +81,13 @@ bilibili: https://space.bilibili.com/22768487<br>
 <hr>
 ![free-ssr-英国1](https://i.imgur.com/11w0SYE.png)
 ![free-ss-英国1](https://i.imgur.com/FiTS3ei.png)
+<hr>
+![free-ssr-英国2](https://i.imgur.com/Lc9whx6.png)
+![free-ss-英国2](https://i.imgur.com/0lLQ6Ok.png)
+<hr>
+![free-ssr-英国3](https://i.imgur.com/lfpzOF6.png)
+![free-ss-英国3](https://i.imgur.com/8G46QtB.png)
+<hr>
 
 1. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
 
