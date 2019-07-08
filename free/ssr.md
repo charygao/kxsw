@@ -1,7 +1,7 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年7月7日修改 美国2、香港1 端口号
+#### 2019年7月8日新增 日本4、日本5、美国7 节点，修改 英国3 端口号，删除 美国2、美国3、美国4 节点
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年7月的最新活动，针对新用户送50美元！
 
@@ -36,22 +36,22 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本3](https://i.imgur.com/b3pa1ct.png)
 ![free-ss-日本3](https://i.imgur.com/mWA6JDQ.png)
 <hr>
+![free-ssr-日本4](https://i.imgur.com/87cJhiC.png)
+![free-ss-日本4](https://i.imgur.com/zIpEzMr.png)
+<hr>
+![free-ssr-日本5](https://i.imgur.com/LaM99zo.png)
+![free-ss-日本5](https://i.imgur.com/8gXur3S.png)
+<hr>
 ![free-ssr-美国1](https://i.imgur.com/59AJbjb.png)
 ![free-ss-美国1](https://i.imgur.com/sRDmmrE.png)
-<hr>
-![free-ssr-美国2](https://i.imgur.com/177KJWE.png)
-![free-ss-美国2](https://i.imgur.com/j6S5Ttm.png)
-<hr>
-![free-ssr-美国3](https://i.imgur.com/bhRE8BS.png)
-![free-ss-美国3](https://i.imgur.com/kgSfLnc.png)
-<hr>
-![free-ssr-美国4](https://i.imgur.com/PmOlqyd.png)
-![free-ss-美国4](https://i.imgur.com/9sCmdzK.png)
 <hr>
 ![free-ssr-美国5](https://i.imgur.com/xWsOwfm.png)
 <hr>
 ![free-ssr-美国6](https://i.imgur.com/AZHhkdP.png)
 ![free-ss-美国6](https://i.imgur.com/Iu8DE30.png)
+<hr>
+![free-ssr-美国7](https://i.imgur.com/T50NjeR.png)
+![free-ss-美国7](https://i.imgur.com/kad0sDb.png)
 <hr>
 ![free-ssr-香港1](https://i.imgur.com/J29gcl8.png)
 ![free-ss-香港1](https://i.imgur.com/Vm0Rfbw.png)
@@ -64,8 +64,8 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-英国2](https://i.imgur.com/Lc9whx6.png)
 ![free-ss-英国2](https://i.imgur.com/0lLQ6Ok.png)
 <hr>
-![free-ssr-英国3](https://i.imgur.com/lfpzOF6.png)
-![free-ss-英国3](https://i.imgur.com/8G46QtB.png)
+![free-ssr-英国3](https://i.imgur.com/RdmvPL5.png)
+![free-ss-英国3](https://i.imgur.com/9ArvKbF.png)
 <hr>
 
 1. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
