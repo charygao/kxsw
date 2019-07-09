@@ -1,7 +1,7 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年7月8日新增 日本4、日本5、美国7 节点，修改 英国3 端口号，删除 美国2、美国3、美国4 节点
+#### 2019年7月9日修改 日本1、香港1 端口号
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年7月的最新活动，针对新用户送50美元！
 
@@ -27,8 +27,8 @@ bilibili: https://space.bilibili.com/22768487<br>
 >如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 14 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 
-![free-ssr-日本1](https://i.imgur.com/qmOta8o.png)
-![free-ss-日本1](https://i.imgur.com/zEFIj8O.png)
+![free-ssr-日本1](https://i.imgur.com/UZX8OnF.png)
+![free-ss-日本1](https://i.imgur.com/IgquE8S.png)
 <hr>
 ![free-ssr-日本2](https://i.imgur.com/8jVqVrb.png)
 ![free-ss-日本2](https://i.imgur.com/TPIbn5K.png)
@@ -53,8 +53,8 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-美国7](https://i.imgur.com/T50NjeR.png)
 ![free-ss-美国7](https://i.imgur.com/kad0sDb.png)
 <hr>
-![free-ssr-香港1](https://i.imgur.com/J29gcl8.png)
-![free-ss-香港1](https://i.imgur.com/Vm0Rfbw.png)
+![free-ssr-香港1](https://i.imgur.com/m2bN8L4.png)
+![free-ss-香港1](https://i.imgur.com/MZIhjap.png)
 <hr>
 ![free-ssr-新加坡1](https://i.imgur.com/5CuKeU2.png)
 <hr>
