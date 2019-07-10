@@ -1,17 +1,20 @@
-# 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术
+# 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术Google Scholar
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年7月9日修改 日本1、香港1 端口号
+#### 2019年7月10日修改 美国5、香港1 端口号
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年7月的最新活动，针对新用户送50美元！
 
 使用下面的注册地址可以获得 **50美元**<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)注册地址：**https://www.vultr.com/?ref=7775614-4F**
 
+<font color="red">欢迎大家关注 Twitter 和 电报频道，每次更新我都会在这两个地方通知大家。</font>
+
+Twitter: https://twitter.com/darrenliuwei<br>
 Telegram频道：https://t.me/SPhardChannel<br>
 Telegram交流群: https://t.me/sphard<br>
 YouTube: https://www.youtube.com/c/SPhard<br>
-bilibili: https://space.bilibili.com/22768487<br>
+Bilibili: https://space.bilibili.com/22768487<br>
 >ssr 密码全部是 `www.darrenliuwei.com` (中间没有空格)
 
 >ss 密码全部是 `www.sphard.com` (中间没有空格)
@@ -45,7 +48,7 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-美国1](https://i.imgur.com/59AJbjb.png)
 ![free-ss-美国1](https://i.imgur.com/sRDmmrE.png)
 <hr>
-![free-ssr-美国5](https://i.imgur.com/xWsOwfm.png)
+![free-ssr-美国5](https://i.imgur.com/sq3joDr.png)
 <hr>
 ![free-ssr-美国6](https://i.imgur.com/AZHhkdP.png)
 ![free-ss-美国6](https://i.imgur.com/Iu8DE30.png)
@@ -53,8 +56,8 @@ bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-美国7](https://i.imgur.com/T50NjeR.png)
 ![free-ss-美国7](https://i.imgur.com/kad0sDb.png)
 <hr>
-![free-ssr-香港1](https://i.imgur.com/m2bN8L4.png)
-![free-ss-香港1](https://i.imgur.com/MZIhjap.png)
+![free-ssr-香港1](https://i.imgur.com/U36DWb3.png)
+![free-ss-香港1](https://i.imgur.com/XKrfmzF.png)
 <hr>
 ![free-ssr-新加坡1](https://i.imgur.com/5CuKeU2.png)
 <hr>
