@@ -1,7 +1,7 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术Google Scholar
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年7月20日修改 香港1 端口号，新增 日本1 节点
+#### 2019年7月23日修改 香港1 端口号，新增 日本2 节点，删除 日本7 节点
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年7月的最新活动，针对新用户送50美元！
 
@@ -33,18 +33,17 @@ Bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本1](https://i.imgur.com/HpaWpIT.png)
 ![free-ss-日本1](https://i.imgur.com/NwanX8i.png)
 <hr>
+![free-ssr-日本2](https://i.imgur.com/OkLasIc.png)
+![free-ss-日本2](https://i.imgur.com/Nra3yJQ.png)
+<hr>
 ![free-ssr-日本3](https://i.imgur.com/DzusftY.png)
 ![free-ss-日本3](https://i.imgur.com/K35eZYO.png)
-<hr>
-![free-ssr-日本7](https://i.imgur.com/sxGtUbq.png)
-![free-ss-日本7](https://i.imgur.com/zCSu1KK.png)
 <hr>
 ![free-ssr-美国5](https://i.imgur.com/sq3joDr.png)
 <hr>
 ![free-ssr-新加坡1](https://i.imgur.com/YlMTA6Y.png)
 <hr>
-![free-ssr-香港1](https://i.imgur.com/FGM4oNO.png)
-![free-ss-香港1](https://i.imgur.com/GZIy4X8.png)
+![free-ssr-香港1](https://i.imgur.com/tHqLlQK.png)
 <hr>
 
 1. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
