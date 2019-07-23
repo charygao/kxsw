@@ -1,7 +1,7 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术Google Scholar
 <font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年7月23日修改 香港1 端口号，新增 日本2 节点，删除 日本7 节点
+#### 2019年7月23日晚修改 香港1 端口号，新增 日本4、日本5、日本6、日本7 节点，删除 日本3 节点
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年7月的最新活动，针对新用户送50美元！
 
@@ -27,7 +27,7 @@ Bilibili: https://space.bilibili.com/22768487<br>
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，并且每次更新我都会通知大家，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 6 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 9 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 <hr>
 ![free-ssr-日本1](https://i.imgur.com/HpaWpIT.png)
@@ -36,14 +36,24 @@ Bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本2](https://i.imgur.com/OkLasIc.png)
 ![free-ss-日本2](https://i.imgur.com/Nra3yJQ.png)
 <hr>
-![free-ssr-日本3](https://i.imgur.com/DzusftY.png)
-![free-ss-日本3](https://i.imgur.com/K35eZYO.png)
+![free-ssr-日本4](https://i.imgur.com/GQ2jk0z.png)
+![free-ss-日本4](https://i.imgur.com/q3EmKof.png)
+<hr>
+![free-ssr-日本5](https://i.imgur.com/7LKyxX0.png)
+![free-ss-日本5](https://i.imgur.com/XPVQR7u.png)
+<hr>
+![free-ssr-日本6](https://i.imgur.com/eThF8yS.png)
+![free-ss-日本6](https://i.imgur.com/dlaCv3J.png)
+<hr>
+![free-ssr-日本7](https://i.imgur.com/fJNBqH6.png)
+![free-ss-日本7](https://i.imgur.com/Rmx5ZcR.png)
 <hr>
 ![free-ssr-美国5](https://i.imgur.com/sq3joDr.png)
 <hr>
 ![free-ssr-新加坡1](https://i.imgur.com/YlMTA6Y.png)
 <hr>
-![free-ssr-香港1](https://i.imgur.com/tHqLlQK.png)
+![free-ssr-香港1](https://i.imgur.com/JhF9yB6.png)
+![free-ss-香港1](https://i.imgur.com/bedZzC5.png)
 <hr>
 
 1. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
