@@ -1,6 +1,6 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术Google Scholar
 
-#### 2019年8月11日新增 香港2 节点，修改 日本2、日本7、日本9 端口号
+#### 2019年8月16日删除 香港1、香港2 节点，修改 日本1、日本4、日本5、日本8、日本10 端口号
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年8月的最新活动，针对新用户送50美元！
 
@@ -26,11 +26,11 @@ Bilibili: https://space.bilibili.com/22768487<br>
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，并且每次更新我都会通知大家，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 14 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是 12 台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 <hr>
-![free-ssr-日本1](https://i.imgur.com/JN2FJ5y.png)
-![free-ss-日本1](https://i.imgur.com/lyZxMVp.png)
+![free-ssr-日本1](https://i.imgur.com/LRiNF4P.png)
+![free-ss-日本1](https://i.imgur.com/AQwYP75.png)
 <hr>
 ![free-ssr-日本2](https://i.imgur.com/VrjfoKv.png)
 ![free-ss-日本2](https://i.imgur.com/54TPcza.png)
@@ -38,11 +38,11 @@ Bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本3](https://i.imgur.com/2FOyiCL.png)
 ![free-ss-日本3](https://i.imgur.com/pqnPWgu.png)
 <hr>
-![free-ssr-日本4](https://i.imgur.com/sAEbLMg.png)
-![free-ss-日本4](https://i.imgur.com/cpsmHOT.png)
+![free-ssr-日本4](https://i.imgur.com/HmX89kc.png)
+![free-ss-日本4](https://i.imgur.com/7qWHM5p.png)
 <hr>
-![free-ssr-日本5](https://i.imgur.com/7LKyxX0.png)
-![free-ss-日本5](https://i.imgur.com/XPVQR7u.png)
+![free-ssr-日本5](https://i.imgur.com/p0GdB8k.png)
+![free-ss-日本5](https://i.imgur.com/DYPrEaZ.png)
 <hr>
 ![free-ssr-日本6](https://i.imgur.com/eThF8yS.png)
 ![free-ss-日本6](https://i.imgur.com/dlaCv3J.png)
@@ -50,22 +50,18 @@ Bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本7](https://i.imgur.com/etxOJMD.png)
 ![free-ss-日本7](https://i.imgur.com/IOza8ea.png)
 <hr>
-![free-ssr-日本8](https://i.imgur.com/aGw5VSc.png)
-![free-ss-日本8](https://i.imgur.com/Jd5hx83.png)
+![free-ssr-日本8](https://i.imgur.com/GcmNzV5.png)
+![free-ss-日本8](https://i.imgur.com/LIt40aD.png)
 <hr>
 ![free-ssr-日本9](https://i.imgur.com/udzLr82.png)
 ![free-ss-日本9](https://i.imgur.com/uTI0qLO.png)
 <hr>
-![free-ssr-日本10](https://i.imgur.com/EexdVrQ.png)
-![free-ss-日本10](https://i.imgur.com/CgV1DJF.png)
+![free-ssr-日本10](https://i.imgur.com/pWjPNFL.png)
+![free-ss-日本10](https://i.imgur.com/jefHUff.png)
 <hr>
 ![free-ssr-美国1](https://i.imgur.com/7VM8wWK.png)
 <hr>
 ![free-ssr-新加坡1](https://i.imgur.com/KxsJNaI.png)
-<hr>
-![free-ssr-香港1](https://i.imgur.com/pvKCFrc.png)
-<hr>
-![free-ssr-香港2](https://i.imgur.com/YVZTZgF.png)
 <hr>
 
 1. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
