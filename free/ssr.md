@@ -1,6 +1,6 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞和谷歌学术Google Scholar
 
-#### 2019年8月16日删除 香港1、香港2 节点，修改 日本1、日本4、日本5、日本8、日本10 端口号
+#### 2019年8月18日修改 日本2、日本9 端口号
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://darrenliuwei.com/ebooks/gfw) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年8月的最新活动，针对新用户送50美元！
 
@@ -32,8 +32,8 @@ Bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本1](https://i.imgur.com/LRiNF4P.png)
 ![free-ss-日本1](https://i.imgur.com/AQwYP75.png)
 <hr>
-![free-ssr-日本2](https://i.imgur.com/VrjfoKv.png)
-![free-ss-日本2](https://i.imgur.com/54TPcza.png)
+![free-ssr-日本2](https://i.imgur.com/HTIvpGC.png)
+![free-ss-日本2](https://i.imgur.com/ykHh8SS.png)
 <hr>
 ![free-ssr-日本3](https://i.imgur.com/2FOyiCL.png)
 ![free-ss-日本3](https://i.imgur.com/pqnPWgu.png)
@@ -53,8 +53,8 @@ Bilibili: https://space.bilibili.com/22768487<br>
 ![free-ssr-日本8](https://i.imgur.com/GcmNzV5.png)
 ![free-ss-日本8](https://i.imgur.com/LIt40aD.png)
 <hr>
-![free-ssr-日本9](https://i.imgur.com/udzLr82.png)
-![free-ss-日本9](https://i.imgur.com/uTI0qLO.png)
+![free-ssr-日本9](https://i.imgur.com/SR67y8V.png)
+![free-ss-日本9](https://i.imgur.com/cQjFVcO.png)
 <hr>
 ![free-ssr-日本10](https://i.imgur.com/pWjPNFL.png)
 ![free-ss-日本10](https://i.imgur.com/jefHUff.png)
