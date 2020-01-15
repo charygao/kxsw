@@ -3,4 +3,4 @@
 
 Brook 项目地址: [https://github.com/txthinking/brook](https://github.com/txthinking/brook)<br>
 
-<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=8371895-6G"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>

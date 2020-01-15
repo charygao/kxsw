@@ -22,4 +22,4 @@ wget -qO- https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/sr
 
 然后在想要使用的平台上下载相应的客户端
 ![2](https://www.png8.com/2019/03/23/5c959bb134841.png)
-<a href="https://www.vultr.com/?ref=7775614-4F"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
+<a href="https://www.vultr.com/?ref=8371895-6G"><img src="https://www.vultr.com/media/banner_1.png" width="100%" height="90"></a>
